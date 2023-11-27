@@ -1,4 +1,4 @@
-![alt text](https://{[(https://png.pngtree.com/thumb_back/fh260/background/20200805/pngtree-background-with-the-theme-of-cyber-technology-networking-illustration-image_386385.jpg)} “Test Test”)
+
 - 🔭 I’m currently working on my QA skills
 - 🌱 I’m currently learning Automation QA
 
